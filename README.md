@@ -1,2 +1,2 @@
 # Bilgisayar Bilimlerine Giris
- Bilgisayar Bilimlerine Giris yaptığım ödevler ve çalışmalar
+ Bilgisayar Bilimlerine Giris dersinde yaptığım ödevler ve çalışmalar
